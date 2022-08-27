@@ -1,6 +1,5 @@
 package jp.ac.it_college.std.s21012.poemonsample.service
 
-import org.w3c.dom.TypeInfo
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
